@@ -1,0 +1,2 @@
+# beauty
+tail log format
